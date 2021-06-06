@@ -1,0 +1,15 @@
+function
+    deployment
+        how to use?
+            deployment(a:List,b:List)
+            for example
+                deployment([4,6,4],[3,4,2,6])
+        what return?
+            a×b
+    distance
+        how to use?
+            distance(Number,Number,Number,Number,...)
+            for example
+                distance(5,7,3,5,3,6)
+        what return?
+            root(Number^2+Number^2+Number^2+Number^2+...)
